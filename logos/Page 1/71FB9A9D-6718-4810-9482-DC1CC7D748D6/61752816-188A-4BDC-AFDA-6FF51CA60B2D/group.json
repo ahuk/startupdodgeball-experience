@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "61752816-188A-4BDC-AFDA-6FF51CA60B2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 163,
+    "width": 254,
+    "x": 57,
+    "y": 19
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Foodora_logo",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {}
+    }
+  },
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "938E7296-32AC-4477-8A89-6E34827A7424",
+      "class": "group"
+    },
+    {
+      "id": "94EAD94E-0FDB-43E7-A1E9-DE1EB63E4336",
+      "class": "group"
+    },
+    {
+      "id": "B8CF9AF1-CD45-42C5-BE32-37E6601ADDC1",
+      "class": "group"
+    },
+    {
+      "id": "2C812378-A119-4EC3-B46E-4E6850D31F36",
+      "class": "group"
+    },
+    {
+      "id": "1F92C7A6-AC3F-4AB5-AD3B-4D452CB4C753",
+      "class": "group"
+    },
+    {
+      "id": "62C87C61-AF88-43E7-8C9A-59001C34DC50",
+      "class": "group"
+    },
+    {
+      "id": "0AA23012-E3D2-47A5-B604-4F259D281CDA",
+      "class": "group"
+    },
+    {
+      "id": "3B111E06-98B2-43B0-865A-109DEADC38DC",
+      "class": "group"
+    },
+    {
+      "id": "DBDB6D8E-33C2-41B6-A957-B27E742606D5",
+      "class": "group"
+    },
+    {
+      "id": "32CBCD27-06FF-46C1-A0AF-C72886A4FB32",
+      "class": "group"
+    },
+    {
+      "id": "3198148F-B125-4BA6-80FE-BA9E0F381EFE",
+      "class": "group"
+    }
+  ]
+}
