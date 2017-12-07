@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "FC6692AD-7C0E-4BE8-BA5E-10037BCACAA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 253,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3DCAF8BF-9862-4386-8FD0-DDB6E03A96BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "698D8800-1F02-4ACD-8E8B-562873E72270"
+    }
+  ],
+  "name": "Fill-6 Clipped",
+  "nameIsFixed": false,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

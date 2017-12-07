@@ -3,8 +3,10 @@
   "do_objectID": "DACE1413-A437-4D0E-8B79-3229FC3E74C1",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +18,18 @@
     "x": 100.5594331207251,
     "y": 64.29507748151423
   },
+  "hasClickThrough": false,
   "isFlippedHorizontal": true,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FAC651EE-1642-4847-8E86-AEDCAE9D2DC4"
+    }
+  ],
   "name": "g10899",
   "nameIsFixed": false,
   "resizingType": 0,
@@ -30,8 +39,8 @@
     "_class": "style",
     "blur": {
       "_class": "blur",
-      "isEnabled": false,
       "center": "{0.5, 0.5}",
+      "isEnabled": false,
       "motionAngle": 0,
       "radius": 12.5,
       "type": 0
@@ -40,7 +49,6 @@
     "fills": [
       {
         "_class": "fill",
-        "isEnabled": true,
         "color": {
           "_class": "color",
           "alpha": 1,
@@ -49,6 +57,7 @@
           "red": 0
         },
         "fillType": 0,
+        "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -57,12 +66,5 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "FAC651EE-1642-4847-8E86-AEDCAE9D2DC4",
-      "class": "shapeGroup"
-    }
-  ]
+  }
 }

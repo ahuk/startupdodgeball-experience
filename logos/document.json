@@ -1,23 +1,38 @@
 {
   "_class": "document",
-  "do_objectID": "D2874B8B-B9E2-4CEA-8E76-3A9FF95EF38B",
   "assets": {
     "_class": "assetCollection",
-    "colors": [],
-    "gradients": [],
+    "colors": [
+    ],
+    "gradients": [
+    ],
     "imageCollection": {
       "_class": "imageCollection",
-      "images": {}
+      "images": {
+      }
     },
-    "images": []
+    "images": [
+    ]
   },
+  "do_objectID": "D2874B8B-B9E2-4CEA-8E76-3A9FF95EF38B",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
-  "foreignSymbols": [],
+  "foreignSymbols": [
+  ],
   "layerSymbols": {
     "_class": "symbolContainer",
-    "objects": []
+    "objects": [
+    ]
   },
+  "meta": {
+    "appVersion": "43.2",
+    "build": 39069,
+    "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129",
+    "version": 88
+  },
+  "pages": [
+    "Page 1"
+  ],
   "userInfo": {
     "com.invisionlabs.sync": {
       "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"

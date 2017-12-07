@@ -1,0 +1,67 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "30D814D8-D453-422A-A251-927426824003",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 1118,
+    "width": 3788,
+    "x": 96,
+    "y": -511
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/f56d69b175cf07094968ced48c756eb7d6ef87ab",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calimoto_hohe_aufloesung",
+  "nameIsFixed": false,
+  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
+  "nineSliceScale": "{0, 0}",
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 1118,
+            "enabled": 1,
+            "modelID": "constraint_3dd3488c-51cf-405b-8256-8f7226c405d1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 3788
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5c7a058a-e802-4781-8371-a451203ee90b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
